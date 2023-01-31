@@ -39,7 +39,7 @@ http://localhost:3000/emailfinder/search/apte
 
 It will return a collection of results in JSON format.
 
-```json
+```
 [
   {
     "id": String,
